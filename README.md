@@ -1,8 +1,10 @@
 ## React Hooks useState, useContext, useEffect and custom Hooks
 
+Los HOOKS son una característica próxima de REACT que te permite usar el estado y otras características de React sin escribir una clase.
+
 Tres ejemplos iguales uno con react normal, otro con react hooks useState, useContext, useEffect y otro con custom hooks
 
-##Instalar react normalmente
+## Instalar react normalmente
 
 `npx create-react-app hooks`
 
@@ -18,10 +20,10 @@ Tres ejemplos iguales uno con react normal, otro con react hooks useState, useCo
 2. Compoentes Grandes - Giant Components (Wrapper Hell)
 3. Clases confusas - Confiusing clases
 
-## Context in react
-
-El contexto proporciona una forma de pasar datos a través del árbol de componentes sin tener que pasar props manualmente en cada nivel.
-
 **Note: No se puede llamar un hook dentro de una condicón debe ser en el top level de componente**
 
 **Note: Los Custom Hook - Siempre debe empezar con la palabra use**
+
+## Context in react
+
+El contexto proporciona una forma de pasar datos a través del árbol de componentes sin tener que pasar props manualmente en cada nivel.
