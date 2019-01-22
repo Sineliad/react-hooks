@@ -3,13 +3,14 @@
 Tres ejemplos iguales uno con react normal, otro con react hooks useState, useContext, useEffect y otro con custom hooks
 
 ##Instalar react normalmente
+
 `npx create-react-app hooks`
 
 ## Instalación de eslint-plugin-react-hooks para poder utilizar hooks en la app
 
-`npm install eslint-plugin-react-hooks@next`
-`yarn add react@next`
-`yarn add react-dom@next`
+1. `npm install eslint-plugin-react-hooks@next`
+2. `yarn add react@next`
+3. `yarn add react-dom@next`
 
 ## Los Hooks resuleven estas desventajas de React
 
